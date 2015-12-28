@@ -1,0 +1,5 @@
+Link para download:
+http://faltas-professores.googlecode.com/files/MobileLeitorDeFaltas.jar
+
+
+Para utilizar, basta executar este arquivo no celular.

@@ -1,0 +1,10 @@
+http://faltas-professores.googlecode.com/files/folha_logo.jpg
+
+
+
+http://faltas-professores.googlecode.com/files/check.png <h3>Visão Geral</h3>
+
+
+====O aplicativo FaltasMobile tem como objetivo exibir nos celulares compatíveis com a tecnologia java as faltas dos professores,<br> que estão cadastradas na seção de faltas do site da fatec de praia grande.====
+
+----

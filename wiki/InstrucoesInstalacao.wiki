@@ -1,0 +1,10 @@
+----
+<h3><b>Instruções de Instalação:</b></h3>
+
+
+http://faltas-professores.googlecode.com/files/folha_logo.jpg
+<br>
+<br>
+<br>
+<b>Para executar o aplicativo, basta transferir e abrir o arquivo MobileLeitorDeFaltas.jar no aparelho celular,  lembrando que é necessário uma conexão com a internet para que a lista de faltas possa ser obtida. A lista exibida é a lista atualizada no momento do acesso. </b>
+----

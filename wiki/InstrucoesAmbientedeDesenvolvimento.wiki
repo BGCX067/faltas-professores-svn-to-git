@@ -1,0 +1,35 @@
+----
+<h3><b>Instruções para o Ambiente de Desenvolvimento:</b></h3>
+
+
+http://faltas-professores.googlecode.com/files/folha_logo.jpg
+<br>
+<br>
+<br>
+Utilizada a *IDE Netbeans* Versão 6.9.1 com suporte a JAVA ME
+
+
+
+Download: http://www.oldapps.com/netbeans.php?old_netbeans=6185?download
+
+*Java development Kit 6 Update 25*
+
+
+
+Download: http://www.oldapps.com/java.php?old_java=74?download
+
+*Controle de versão:*
+
+
+
+Subversion Versão: 1.12.2.42.1
+
+*Efetuando checkout do projeto*
+<br>
+<br>
+*Passo 1:* Abrir a IDE Netbeans<br>
+*Passo 2:* Na aba equipe, selecionar a opção subversion e em seguida a opção efetuar checkout<br>
+*Passo 3:* Em URL do repositório colocar:https://faltas-professores.googlecode.com/svn/ <br>
+*Passo 4:* Em usuário deixar os campos em branco para efetuar checkout anônimo.<br>
+*Passo 5:* Em pastas do repositório clicar na opção procurar e em seguida na pasta MobileLeitorDeFaltas e clicar em OK<br>
+----
